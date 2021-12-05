@@ -73,3 +73,30 @@
     font-size: 25px;
     text-align: center;
 }
+.w3-yellow a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+.final a{
+    margin:0 2%;
+}
+.logo{
+    font-size: 20px;
+    padding: 2%;
+    background-color: yellow;
+}
+.fnav{
+    background-color: yellow;
+}
+.auth{
+    margin: -5% 1%;
+    float: right;
+}
+#search{
+    height: 50px;
+    width: 600px;
+}
